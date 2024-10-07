@@ -28,7 +28,7 @@ Get the best offers on health and beauty products, including skincare, haircare,
 
 Stay ahead of the curve by joining our Telegram channel for real-time updates on the latest deals and offers.
 
-!Join Telegram Channel <!-- Add your Telegram channel link here -->
+!Join Telegram Channel <!-- https://t.me/+74HbL2Cda2c4OGE1 -->
 
 ## How to Shop
 
