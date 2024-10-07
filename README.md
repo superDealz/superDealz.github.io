@@ -1,6 +1,6 @@
 # Awesome Discounted Offers and Deals
  
-![logo](https://raw.githubusercontent.com/VodkaBears/vodkabears.github.com/master/remodal/remodal.png)
+![logo](https://raw.githubusercontent.com/superDealz/superDealz.github.io/refs/heads/master/Logo.png)
  
 Welcome to your go-to source for the latest and greatest deals from major online retailers in India! We bring you the best offers on a wide range of products, ensuring you never miss out on a bargain.
 
