@@ -1,6 +1,14 @@
 # Awesome Discounted Offers and Deals
  
 ![logo](https://raw.githubusercontent.com/superDealz/superDealz.github.io/refs/heads/master/Logo.png)
+
+
+# Join Our Telegram Channel
+
+Stay ahead of the curve by joining our Telegram channel for real-time updates on the latest deals and offers.
+
+<a href="https://t.me/+74HbL2Cda2c4OGE1" style="font-size: 24px;">Click here to Join</a>
+
  
 Welcome to your go-to source for the latest and greatest deals from major online retailers in India! We bring you the best offers on a wide range of products, ensuring you never miss out on a bargain.
 
@@ -24,11 +32,8 @@ Discover great savings on home decor, kitchen appliances, and more to make your 
 ### Health & Beauty
 Get the best offers on health and beauty products, including skincare, haircare, and wellness items.
 
-## Join Our Telegram Channel
 
-Stay ahead of the curve by joining our Telegram channel for real-time updates on the latest deals and offers.
 
-!Join Telegram Channel <!-- https://t.me/+74HbL2Cda2c4OGE1 -->
 
 ## How to Shop
 
