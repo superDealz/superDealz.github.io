@@ -40,3 +40,6 @@ Get the best offers on health and beauty products, including skincare, haircare,
 1. **Browse**: Explore our curated list of deals and find the products you love.
 2. **Select**: Click on the deal to be redirected to the retailer's website.
 3. **Purchase**: Complete your purchase and enjoy your savings!
+
+
+<a href="Disclosure.html">Disclosure</a>
