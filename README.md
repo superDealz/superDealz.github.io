@@ -7,7 +7,7 @@
 
 Stay ahead of the curve by joining our Telegram channel for real-time updates on the latest deals and offers.
 
-<a href="https://t.me/+74HbL2Cda2c4OGE1" style="font-size: 24px;">Click here to Join</a>
+<a href="https://t.me/+aU6bi0IgQcQ4YTc1" style="font-size: 24px;">Click here to Join</a>
 
  
 Welcome to your go-to source for the latest and greatest deals from major online retailers in India! We bring you the best offers on a wide range of products, ensuring you never miss out on a bargain.
